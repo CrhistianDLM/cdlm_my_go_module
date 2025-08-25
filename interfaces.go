@@ -1,4 +1,4 @@
-package cdlm_my_go_module
+package figuras
 
 import "fmt"
 

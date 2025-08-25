@@ -1,4 +1,4 @@
-package cdlm_my_go_module
+package figuras
 
 type Cuadrado struct {
 	Lado float64
