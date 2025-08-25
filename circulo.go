@@ -1,4 +1,4 @@
-package figuras
+package cdlm_my_go_module
 
 import "math"
 
